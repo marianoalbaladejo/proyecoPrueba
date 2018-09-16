@@ -5,7 +5,15 @@
 int main()
 {
     printf( "Hola mundo");
+<<<<<<< HEAD
 
+printf( "Hola mundo");
+=======
+ printf( "Hola mundo");
+ printf( "Hola mundo");
+ printf( "Hola mundo");
+ printf( "Hola mundo");
 
+>>>>>>> test
     return 0;
 }
